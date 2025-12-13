@@ -1,9 +1,9 @@
-This application uses the Roboto font.
+This app uses the following fonts:
 
-Copyright 2011 Google Inc.
+Roboto
+Copyright © 2011 Google Inc.
+Licensed under the Apache License, Version 2.0.
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this font except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
+Noto Sans CJK JP
+Copyright © Google / Adobe.
+Licensed under the SIL Open Font License 1.1.
