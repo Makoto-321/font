@@ -1,9 +1,11 @@
-This app uses the following fonts:
+This app uses the following fonts:<br>
 
-Roboto
-Copyright © 2011 Google Inc.
-Licensed under the Apache License, Version 2.0.
+Roboto<br>
+Copyright © 2011 Google Inc.<br>
+Licensed under the Apache License, Version 2.0.<br>
 
-Noto Sans CJK JP
-Copyright © Google / Adobe.
-Licensed under the SIL Open Font License 1.1.
+Noto Sans CJK JP<br>
+Copyright © Google / Adobe.<br>
+Licensed under the SIL Open Font License 1.1.<br>
+
+Note: The actual font used for display may vary depending on the device and operating system.<br>
