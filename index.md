@@ -4,7 +4,7 @@ Roboto<br>
 Copyright © 2011 Google Inc.<br>
 Licensed under the Apache License, Version 2.0.<br>
 
-Noto Sans CJK JP<br>
+Noto Sans CJK JP (used by the system as a fallback for Japanese text) <br>
 Copyright © Google / Adobe.<br>
 Licensed under the SIL Open Font License 1.1.<br>
 
